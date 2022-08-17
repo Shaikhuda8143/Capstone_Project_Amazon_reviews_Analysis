@@ -13,3 +13,8 @@ CountVectorizer.
 *  Models Used Naïve Bayes(51%Accuracy), Logistic Regression(90%Accuracy)
 *  Evaluation Ensemble algorithms: AdaBoost, Gradient Boost, Random Forest, Extra trees, etc.
 * Evaluation Classification Algorithm: KNN, CART, SGD, SVC, et
+
+## Insights:
+The sales of the device were more in 2019(2019) and gradually decreased in 2020(1528) and number of negative reviews has also increased, So we need to update the product features.
+
+![2022-05-05 (5)](https://user-images.githubusercontent.com/97623883/185196531-2d7e1ce2-464a-45ab-be19-6537aec07c5b.png)
