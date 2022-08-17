@@ -6,7 +6,7 @@ Need to get the daily analysis of a product listed on **Amazon** such as emotion
 ### Our Product
 ![echo-dot-3-charcoal-1](https://user-images.githubusercontent.com/97623883/184384384-0040b721-b943-4f7b-aad4-488e869416a4.jpg)
 
-### Roles And Responsibilities:
+### Approach:
 *  Web scraping, collected around 5000 reviews along with ratings, date, title, helpful votes, etc.
 * Performed EDA using Plotly, text cleaning, and pre-processing using TextBlob, NLTK, Spacy, and 
 CountVectorizer.
