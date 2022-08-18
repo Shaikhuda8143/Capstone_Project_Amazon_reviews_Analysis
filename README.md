@@ -15,9 +15,9 @@ CountVectorizer.
 * Evaluation Classification Algorithm: KNN, CART, SGD, SVC, et
 
 ## Insights:
-1)The sales of the device were more in 2019(2019) and gradually decreased in 2020(1528) and number of negative reviews has also increased, So we need to update the product features.
+#### 1)The sales of the device were more in 2019(2019) and gradually decreased in 2020(1528) and number of negative reviews has also increased, So we need to update the product features.
 
 ![2022-05-05 (5)](https://user-images.githubusercontent.com/97623883/185196531-2d7e1ce2-464a-45ab-be19-6537aec07c5b.png)
 
-2) We can take the reviews of the customers who gave 5-star rating but having negative and neutral sentiment in their reviews
+#### 2) We can take the reviews of the customers who gave 5-star rating but having negative and neutral sentiment in their reviews
 ![Screenshot (60)](https://user-images.githubusercontent.com/97623883/185430914-e3f87c3b-6b2e-4e2f-87d4-7dd5e2003a05.png)
