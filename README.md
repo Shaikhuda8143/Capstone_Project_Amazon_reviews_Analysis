@@ -12,7 +12,7 @@ Need to get the daily analysis of a product listed on **Amazon** such as emotion
 CountVectorizer.
 *  Models Used Naïve Bayes(51%Accuracy), Logistic Regression(90%Accuracy)
 *  Evaluation Ensemble algorithms: AdaBoost, Gradient Boost, Random Forest, Extra trees, etc.
-* Evaluation Classification Algorithm: KNN, CART, SGD, SVC, et
+* Evaluation Classification Algorithm: KNN, CART, SGD, SVC, etc.
 
 ## Insights:
 #### 1)The sales of the device were more in 2019(2019) and gradually decreased in 2020(1528) and number of negative reviews has also increased, So we need to update the product features.
