@@ -21,3 +21,6 @@ CountVectorizer.
 
 #### 2) We can take the reviews of the customers who gave 5-star rating but having negative and neutral sentiment in their reviews
 ![Screenshot (60)](https://user-images.githubusercontent.com/97623883/185430914-e3f87c3b-6b2e-4e2f-87d4-7dd5e2003a05.png)
+
+#### 3) Count of reviews by Month Wise and Year Wise
+![image](https://user-images.githubusercontent.com/97623883/201468000-5cb168d2-8fdb-47e2-8305-ccb43ca70d6b.png)
